@@ -1,4 +1,5 @@
-# Scientific Programming - MSB1015 (academic year: 2023-2024)
+# Scientific Programming - MSB1015 
+## (academic year: 2023-2024)
 
 This repository contains a Python notebook with the code for my project in the Scientific Programming course. 
 

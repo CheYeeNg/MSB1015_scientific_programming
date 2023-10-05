@@ -13,5 +13,5 @@ The used data files were:
 Python version 3.10.12 was used with the following Python libraries to run the code:
 - Pandas (version 2.0.0)
 - NumPy (version 1.23.5)
-- Matplotlib (version ...)
+- Matplotlib (version 3.7.1)
 - seaborn (version 0.12.2)

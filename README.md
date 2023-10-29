@@ -16,3 +16,7 @@ Python version 3.10.12 was used with the following libraries to run the code:
 - Seaborn (version 0.12.2)
 - TensorFlow (version v2.14.0)
 - TensorFlow Decision Forests (version 1.6.0)
+
+The "prediction_of_Parkinsons_disease_related_proteins.ipynb" notebook contains the code used for the project.
+
+The other 8 .npy files contain the output for the ML part. As 2 models were trained (one to predict updrs_1 and the other updrs_2) 4 .npy files correspond to updrs_1 and 4 to updrs_2 (also indicated in the name of the files).
